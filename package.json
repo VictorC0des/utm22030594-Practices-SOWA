@@ -1,0 +1,16 @@
+{
+  "name": "practica_npm_victor",
+  "version": "1.0.0",
+  "description": "My first practice NPM",
+  "main": "index.js",
+   "type": "module",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Francisco Carmona Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
